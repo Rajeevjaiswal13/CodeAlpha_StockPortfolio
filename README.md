@@ -28,7 +28,7 @@ stock prices.
    python stock_tracker.py
 
 ## Author
-Rajeev Jaiswal
+Rajeev Kumar Jaiswal
 
 ## Internship
 CodeAlpha Python Programming Internship
